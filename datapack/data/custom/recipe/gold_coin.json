@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        "minecraft:gold_nugget",
+        "minecraft:white_dye"
+    ],
+    "result": {
+        "id": "minecraft:gold_nugget",
+        "count": 4,
+        "components": {
+            "minecraft:item_model": "custom:gold_coin",
+            "minecraft:custom_data": {
+                "gold_coin": 1
+            },
+            "minecraft:custom_name": {
+                "text": "Gold Coin",
+                "italic": false
+            }
+        }
+    }
+}
